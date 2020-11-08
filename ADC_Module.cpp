@@ -33,7 +33,7 @@
 //#include "ADC.h"
 
 // include the internal reference
-#include <VREF.h>
+#include "VREF.h"
 
 
 /* Constructor

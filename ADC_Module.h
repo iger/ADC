@@ -33,7 +33,7 @@
 
 #include <Arduino.h>
 
-#include <atomic.h>
+#include "atomic.h"
 
 // Easier names for the boards
 #if defined(__MK20DX256__) // Teensy 3.1

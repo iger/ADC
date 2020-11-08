@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 
-#include <atomic.h>
+#include "atomic.h"
 
 //! Controls the Teensy internal voltage reference module (VREFV1)
 namespace VREF
